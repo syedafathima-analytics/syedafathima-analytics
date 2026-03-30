@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Gmail-syedafathima753@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/syedafathima">
-    <img src="https://img.shields.io/badge/LinkedIn-syedafathima-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/https://www.linkedin.com/in/syeda-fathima-analytics/?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/syedafathima-analytics">
     <img src="https://img.shields.io/badge/GitHub-syedafathima--analytics-181717?style=flat-square&logo=github&logoColor=white"/>
